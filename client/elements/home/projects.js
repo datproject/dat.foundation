@@ -41,6 +41,9 @@ module.exports = function (props) {
           <a class="w-100 w-auto-ns inline-flex items-center mv2 mh3" href="https://datcxx.github.io/" title="Dat CXX">
             <img class="h3 w-auto" src="/public/img/datcxx.png" alt="Dat CXX">
           </a>
+          <a class="w-100 w-auto-ns inline-flex items-center mv2 mh3" href="https://github.com/tdjsnelling/dat-keyserver" title="dat-keyserver">
+            <img class="h2 w-auto" src="/public/img/dat-keyserver.png" alt="dat-keyserver">
+          </a>
         </div>
       </div>
     </section>
